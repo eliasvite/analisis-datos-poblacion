@@ -1,6 +1,6 @@
 # Analisis exploratorio de datos de población en México
 
-Este proyecto explora los cambios en la población total de México, así como la distribución por sexo, el registro de nacimientos y defunciones.
+Este proyecto explora los cambios en la población total de México, así como la distribución por sexo, el registro de nacimientos y defunciones, registro de matrimonios y divorcios.
 
 ## Contenido
 
