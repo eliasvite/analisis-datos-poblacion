@@ -26,3 +26,5 @@ https://www.inegi.org.mx/app/indicadores/
 - Pandas
 - Matplotlib / Seaborn
 - Jupyter Notebook
+
+[Abrir en Google Colab](https://colab.research.google.com/github/eliasvite/analisis-datos-poblacion/blob/main/analisis_poblacion.ipynb)
