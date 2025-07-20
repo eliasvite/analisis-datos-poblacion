@@ -1,5 +1,3 @@
-# analisis-datos-poblacion
-
 #Analisis exploratorio de datos de población en México
 
 Este proyecto explora los cambios en la población total de México, así como la distribución por sexo, en diferentes periodos de tiempo.
